@@ -1,0 +1,8 @@
+{
+  "name": "coverage-gap-scanner",
+  "enabled": true,
+  "interval": 3600000,
+  "projectRoot": "c:\\Projects\\agentic-qe",
+  "dataDir": "c:\\Projects\\agentic-qe\\.agentic-qe\\data",
+  "createdAt": "2026-01-20T10:51:23.808Z"
+}
